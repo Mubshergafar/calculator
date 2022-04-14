@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator app",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "nodemon calculator.js"
+  },
+  "author": "Mubsher Gafar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "gitignore": "^0.7.0",
+    "nodemon": "^2.0.15"
+  }
+}
